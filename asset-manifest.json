@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/daniel-nau-portfolio/static/css/main.adc0d10d.chunk.css",
-    "main.js": "/daniel-nau-portfolio/static/js/main.56b79755.chunk.js",
-    "main.js.map": "/daniel-nau-portfolio/static/js/main.56b79755.chunk.js.map",
+    "main.css": "/daniel-nau-portfolio/static/css/main.0d1905cf.chunk.css",
+    "main.js": "/daniel-nau-portfolio/static/js/main.9a01a351.chunk.js",
+    "main.js.map": "/daniel-nau-portfolio/static/js/main.9a01a351.chunk.js.map",
     "runtime-main.js": "/daniel-nau-portfolio/static/js/runtime-main.193a70ae.js",
     "runtime-main.js.map": "/daniel-nau-portfolio/static/js/runtime-main.193a70ae.js.map",
     "static/js/2.5ffa0682.chunk.js": "/daniel-nau-portfolio/static/js/2.5ffa0682.chunk.js",
     "static/js/2.5ffa0682.chunk.js.map": "/daniel-nau-portfolio/static/js/2.5ffa0682.chunk.js.map",
     "index.html": "/daniel-nau-portfolio/index.html",
-    "static/css/main.adc0d10d.chunk.css.map": "/daniel-nau-portfolio/static/css/main.adc0d10d.chunk.css.map",
+    "static/css/main.0d1905cf.chunk.css.map": "/daniel-nau-portfolio/static/css/main.0d1905cf.chunk.css.map",
     "static/js/2.5ffa0682.chunk.js.LICENSE.txt": "/daniel-nau-portfolio/static/js/2.5ffa0682.chunk.js.LICENSE.txt",
     "static/media/Burger-Screenshot.53d23496.PNG": "/daniel-nau-portfolio/static/media/Burger-Screenshot.53d23496.PNG",
     "static/media/Daniel-Nau-Resume-2021.f95ce470.pdf": "/daniel-nau-portfolio/static/media/Daniel-Nau-Resume-2021.f95ce470.pdf",
@@ -21,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.193a70ae.js",
     "static/js/2.5ffa0682.chunk.js",
-    "static/css/main.adc0d10d.chunk.css",
-    "static/js/main.56b79755.chunk.js"
+    "static/css/main.0d1905cf.chunk.css",
+    "static/js/main.9a01a351.chunk.js"
   ]
 }
