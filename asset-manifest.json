@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/dannauu/daniel-nau-portfolio/static/css/main.1c95dcc5.chunk.css",
+    "main.js": "/dannauu/daniel-nau-portfolio/static/js/main.56b79755.chunk.js",
+    "main.js.map": "/dannauu/daniel-nau-portfolio/static/js/main.56b79755.chunk.js.map",
+    "runtime-main.js": "/dannauu/daniel-nau-portfolio/static/js/runtime-main.15754872.js",
+    "runtime-main.js.map": "/dannauu/daniel-nau-portfolio/static/js/runtime-main.15754872.js.map",
+    "static/js/2.5ffa0682.chunk.js": "/dannauu/daniel-nau-portfolio/static/js/2.5ffa0682.chunk.js",
+    "static/js/2.5ffa0682.chunk.js.map": "/dannauu/daniel-nau-portfolio/static/js/2.5ffa0682.chunk.js.map",
+    "index.html": "/dannauu/daniel-nau-portfolio/index.html",
+    "static/css/main.1c95dcc5.chunk.css.map": "/dannauu/daniel-nau-portfolio/static/css/main.1c95dcc5.chunk.css.map",
+    "static/js/2.5ffa0682.chunk.js.LICENSE.txt": "/dannauu/daniel-nau-portfolio/static/js/2.5ffa0682.chunk.js.LICENSE.txt",
+    "static/media/Burger-Screenshot.53d23496.PNG": "/dannauu/daniel-nau-portfolio/static/media/Burger-Screenshot.53d23496.PNG",
+    "static/media/Daniel-Nau-Resume-2021.f95ce470.pdf": "/dannauu/daniel-nau-portfolio/static/media/Daniel-Nau-Resume-2021.f95ce470.pdf",
+    "static/media/Food-for-comfort.d2ffbbd8.PNG": "/dannauu/daniel-nau-portfolio/static/media/Food-for-comfort.d2ffbbd8.PNG",
+    "static/media/WeatherDashboard.f217882d.PNG": "/dannauu/daniel-nau-portfolio/static/media/WeatherDashboard.f217882d.PNG",
+    "static/media/aboutmepic.8a2d7a2c.jpg": "/dannauu/daniel-nau-portfolio/static/media/aboutmepic.8a2d7a2c.jpg",
+    "static/media/index.css": "/dannauu/daniel-nau-portfolio/static/media/photo-1487621167305-5d248087c724.42da114f.jfif",
+    "static/media/workday-scheduler.1aec3b62.PNG": "/dannauu/daniel-nau-portfolio/static/media/workday-scheduler.1aec3b62.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.15754872.js",
+    "static/js/2.5ffa0682.chunk.js",
+    "static/css/main.1c95dcc5.chunk.css",
+    "static/js/main.56b79755.chunk.js"
+  ]
+}
