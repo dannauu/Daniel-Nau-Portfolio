@@ -1,0 +1,32 @@
+.links {
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.navbtns {
+    text-decoration: none !important;
+    color: black !important;
+    font-size: 25px;
+    font-weight: 1000;
+    
+}
+
+.navbarName {
+    color: black;
+    font-size: 39px;
+    font-weight: 1000;
+}
+
+.row {
+    background-color: black;
+}
+
+.linksRow {
+    width: 100%;
+}
+
+.navBar {
+    margin-bottom: 50px;
+}
