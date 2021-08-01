@@ -14,7 +14,7 @@ export default function Main() {
                     Kansas University's Full Stack Coding bootcamp and over 5 years of web development as a hobby I
                     can say that I am constantly striving to be better and keep up with the industry! With the set 
                     of skills and technologies I have acquired over the past couple years I feel confident I can be a valuable asset to any company.
-                    Please feel free to contact me with any questions! Thank you!
+                    Please feel free to contact me with any questions! Thank you and have a good day!
                 </p>
             </div>
 
