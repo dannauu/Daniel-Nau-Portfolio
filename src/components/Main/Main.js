@@ -10,19 +10,16 @@ export default function Main() {
                 <h1 className="fw-bold">About Me</h1>
                 <img src={AboutMePic} className="float-start px-3" alt="..." id="aboutMePic" />
                 <p>
-                    My name is Daniel Nau. I am currently attending The University of Kansas Coding Bootcamp. I have a
-                    passion for learning code and
-                    troubleshooting code. I take pride in determination and dedication when it comes to programming. I
-                    am always learning and evolving. I keep up to date with the ever so changing industry and never turn
-                    down a challenge. I graduate in May of 2021 and I am open to all remote positions, though I would
-                    prefer a full stack position. My portfolio is always being updated, feel
-                    free to contact me at the bottom of the page with any questions or concerns. Check out my LinkedIn
-                    and GitHub profiles located down below.
+                    My name is Daniel and thank you for visiting my portfolio! With the accomplishment of graduating
+                    Kansas University's Full Stack Coding bootcamp and over 5 years of web development as a hobby I
+                    can say that I am constantly striving to be better and keep up with the industry! With the set 
+                    of skills and technologies I have acquired over the past couple years I feel confident I can be a valuable asset to any company.
+                    Please feel free to contact me with any questions! Thank you!
                 </p>
             </div>
 
             <div className="col-md-6 skills">
-                <h1 className="skills">Current Skills</h1>
+                <h1 className="skills" id="skills">Current Skills</h1>
                 <div className="col-6 frontEnd">
                     <h4 className="tech">Front End Technologies</h4>
                     <ul className="techUl">

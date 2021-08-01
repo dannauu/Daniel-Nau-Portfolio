@@ -10,7 +10,7 @@ export default function Navbar() {
       <div className="col-md-6">
         <div className="row linksRow">
           <div className="col-md-3 links">
-            <a href="#aboutme" className="navbtns">
+            <a href="#aboutMe" className="navbtns">
               About Me
             </a>
           </div>
@@ -25,7 +25,7 @@ export default function Navbar() {
             </a>
           </div>
           <div className="col-md-3 links">
-            <a href="#contactme" className="navbtns">
+            <a href="#contact" className="navbtns">
               Contact Me
             </a>
           </div>
